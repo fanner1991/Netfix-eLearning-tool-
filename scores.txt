@@ -1,0 +1,110 @@
+Game Type: Quiz, Score: 2, Date and Time: 2024-03-05 16:28:53
+Game Type: Quiz, Score: 1, Date and Time: 2024-03-05 16:41:51
+Game Type: Quiz, Score: 1, Date and Time: 2024-03-05 16:44:16
+Game Type: Quiz, Score: 2, Date and Time: 2024-03-05 16:53:41
+Game Type: Quiz, Score: 2, Date and Time: 2024-03-05 16:55:27
+Game Type: Quiz, Score: 2, Date and Time: 2024-03-05 16:56:24
+Game Type: True/False, Score: 4, Date and Time: 2024-03-05 16:57:35
+Game Type: True/False, Score: 4, Date and Time: 2024-03-06 12:59:53
+Game Type: Quiz, Score: 0, Date and Time: 2024-03-08 12:32:48
+Game Type: Router Configuration, Score: 1, Date and Time: 2024-03-08 14:56:08
+Game Type: Router Configuration, Score: 9, Date and Time: 2024-03-08 14:59:30
+
+
+Game Type: Router configuration game,    Score: 19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7, Date and Time: 2024-03-13 11:40:41
+Game Type: handle_social_engineering attack,    Score: 6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b, Date and Time: 2024-03-13 11:41:39
+Game Type: Quiz,    Score: 6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b, Date and Time: 2024-03-13 14:45:24
+Game Type: Quiz,    Score: 6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b, Date and Time: 2024-03-13 15:03:03
+Game Type: Quiz,    Score: 6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b, Date and Time: 2024-03-13 15:09:13
+Game Type: Quiz,    Score: 6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b, Date and Time: 2024-03-13 15:11:28
+Game Type: Router configuration game,    Score: 19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7, Date and Time: 2024-03-14 11:37:04
+Game Type: Quiz,    Score: 6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b, Date and Time: 2024-03-14 11:39:14
+Game Type: Quiz,    Score: 5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9, Date and Time: 2024-03-26 10:00:16
+Game Type: Quiz, Score: 1, Badge: Explorer, Date and Time: 2024-03-26 13:12:34
+Game Type: Quiz, Score: 7, Badge: Superstar, Date and Time: 2024-03-26 13:15:08
+Game Type: Quiz, Score: 0, Badge: Explorer, Date and Time: 2024-03-26 13:24:09
+Game Type: Quiz, Score: 2, Badge: Explorer, Date and Time: 2024-03-26 13:25:52
+Game Type: Quiz, Score: 4, Badge: Explorer, Date and Time: 2024-03-26 13:29:47
+Game Type: Quiz, Score: 2, Badge: Explorer, Date and Time: 2024-03-26 13:31:08
+Game Type: PG block, Answer: Encryption is a process that encodes a message or information in such a way that only authorized parties can access it, the first method was cipher known as the Caesar Cipher., Date and Time: 2024-03-28 12:45:07
+Game Type: PG block, Answer: & "C:/Users/Deivy Leyton/Desktop/Netfix/venv/Scripts/python.exe" "d:/Brookes University/Final year/COMP6013 Computing project/story/main.py"p, Date and Time: 2024-03-28 13:07:04
+Game Type: PG block, Answer: Encryption is a process that encodes a message or information, the first method was cipher known as the Caesar Cipher, Date and Time: 2024-03-28 13:14:12
+Game Type: PG block, Answer: Encryption is a process that encodes a message or information, the first method was cipher known as the Caesar Cipher, Date and Time: 2024-03-28 13:28:17
+Game Type: PG block, Answer: Encryption is a process that encodes a message or information, the first method was cipher known as the Caesar Cipher, Date and Time: 2024-03-28 13:37:06
+Game Type: PG block, Answer: testing, Date and Time: 2024-03-28 13:43:02
+Game Type: PG block, Answer: testing, Date and Time: 2024-03-28 13:53:11
+Game Type: new Proposal: , Answer: this text is for testing purposes, Date and Time: 2024-03-28 15:46:05
+Game Type: new Proposal: , Answer: I suggest to implemeent a game to improve knowledge about  OSPF which stands for Open Shortest path First. this routing protocol will determine the best path for data packets, Date and Time: 2024-03-28 16:01:34
+Game Type: Router configuration game, Score: 5, Badge: Explorer, Date and Time: 2024-03-30 13:16:21
+Game Type: True/False, Score: 4, Badge: Superstar, Date and Time: 2024-03-30 13:18:34
+Game Type: True/False, Score: 4, Badge: Superstar, Date and Time: 2024-03-30 13:21:31
+Game Type: True/False, Score: 3, Badge: Explorer, Date and Time: 2024-03-30 13:23:06
+Game Type: True/False, Score: 4, Badge: Superstar, Date and Time: 2024-03-30 13:24:17
+Game Type: handle_social_engineering attack, Answer: 1, Date and Time: 2024-03-30 15:05:52
+Game Type: Router configuration game, Score: 1, Badge: Explorer, Date and Time: 2024-03-30 15:12:51
+Game Type: Handle_Social_Engineering Attack, Answer: 0, Date and Time: 2024-03-30 15:14:58
+Game Type: Handle Social Enginering Attacks, Answer: Understanding social engineering attacks is crucial because they exploit human psychology, not technical vulnerabilities, to gain unauthorized access. Awareness helps individuals recognize and protect themselves from deceptive tactics used by attackers to manipulate them into divulging confidential information., Date and Time: 2024-03-30 15:14:58
+Game Type: Handle_Social_Engineering Attack, Answer: 0, Date and Time: 2024-03-30 15:19:49
+Game Type: Handle Social Enginering Attacks, Answer: testing..., Date and Time: 2024-03-30 15:19:49
+Game Type: handle_social_engineering attack, Answer: 1, Date and Time: 2024-03-30 15:21:57
+Game Type: handle_social_engineering attack, Answer: 1, Date and Time: 2024-03-30 15:28:33
+Game Type: Quiz, Score: 1, Badge: Explorer, Date and Time: 2024-04-02 19:22:45
+Game Type: Router Configuration, Score: 1, Badge: Explorer, Date and Time: 2024-04-02 19:26:10
+Game Type: Quiz, Score: 7, Badge: Adventurer, Date and Time: 2024-04-02 19:37:48
+Game Type: Quiz, Score: 6, Badge: Adventurer, Date and Time: 2024-04-02 19:47:31
+Game Type: True/False, Score: 4, Badge: Superstar, Date and Time: 2024-04-02 20:00:27
+Game Type: True/False, Score: 3, Badge: Explorer, Date and Time: 2024-04-02 20:01:11
+Game Type: True/False, Score: 3, Badge: Explorer, Date and Time: 2024-04-02 20:02:35
+Game Type: Quiz, Score: 7, Badge: Superstar, Date and Time: 2024-04-02 20:13:17
+Game Type: True/False, Score: 3, Badge: Explorer, Date and Time: 2024-04-02 20:24:01
+Game Type: True/False, Score: 4, Badge: Superstar, Date and Time: 2024-04-02 20:40:32
+Game Type: Quiz, Score: 0, Badge: Explorer, Date and Time: 2024-04-03 11:21:05
+Game Type: Quiz, Score: 1, Badge: Explorer, Date and Time: 2024-04-03 11:21:20
+Game Type: True/False, Score: 2, Badge: Explorer, Date and Time: 2024-04-03 11:22:35
+Game Type: Malware, Answer: isolate the infected systems, Date and Time: 2024-04-04 15:48:49
+Game Type: Malware, Answer: isolate the infected systems, Date and Time: 2024-04-04 16:05:42
+Game Type: Router Configuration, Score: 0, Badge: Explorer, Date and Time: 2024-04-05 09:47:25
+Game Type: Quiz, Score: 1, Badge: Explorer, Date and Time: 2024-04-05 13:31:43
+Game Type: Quiz, Score: 1, Badge: Explorer, Date and Time: 2024-04-05 13:35:38
+Game Type: True/False, Score: 4, Badge: Superstar, Date and Time: 2024-04-05 13:39:39
+Game Type: True/False, Score: 4, Badge: Superstar, Date and Time: 2024-04-05 13:42:23
+Game Type: True/False, Score: 4, Badge: Superstar, Date and Time: 2024-04-05 13:56:07
+Game Type: True/False, Score: 4, Badge: Superstar, Date and Time: 2024-04-05 14:04:00
+Game Type: Quiz, Score: 1, Badge: Explorer, Date and Time: 2024-04-05 14:09:38
+Game Type: True/False, Score: 4, Badge: Superstar, Date and Time: 2024-04-05 14:10:32
+Game Type: True/False, Score: 4, Badge: Superstar, Date and Time: 2024-04-10 10:15:44
+Game Type: Router Configuration, Score: 1, Badge: Explorer, Date and Time: 2024-04-10 10:18:40
+Game Type: Quiz, Score: 6, Badge: Adventurer, Date and Time: 2024-04-10 11:57:17
+Game Type: Modules 1 – 4: Securing Networks, Score: 6, Badge: Adventurer, Date and Time: 2024-04-10 15:40:18
+Game Type: Quiz, Score: 5, Badge: Explorer, Date and Time: 2024-04-10 15:42:31
+Game Type: Modules 5 - 7: Monitoring and Managing Devices, Score: 5, Badge: Explorer, Date and Time: 2024-04-10 16:57:59
+Game Type: Modules 5 - 7: Monitoring and Managing Devices, Score: 13, Badge: Explorer, Date and Time: 2024-04-10 17:01:41
+Game Type: Modules 1 – 4: Securing Networks, Score: 10, Badge: Explorer, Date and Time: 2024-04-11 10:39:19
+Game Type: Modules 8 - 10: ACLs and Firewalls, Score: 12, Badge: Explorer, Date and Time: 2024-04-13 14:52:19
+Game Type: Modules 11 - 12: Intrusion Prevention, Score: 7, Out of 9, Badge: Adventurer, Date and Time: 2024-04-13 15:15:02
+Game Type: Modules 13 - 14: Layer 2 and Endpoint Security, Score: 18, Out of 24, Badge: Explorer, Date and Time: 2024-04-14 18:55:30
+Game Type: Quiz, Score: 0, Out of 24, Badge: Explorer, Date and Time: 2024-04-15 09:54:48
+Game Type: Modules 15 - 17: Cryptography, Score: 16, Out of 23, Badge: Explorer, Date and Time: 2024-04-15 10:04:15
+Game Type: Modules 18 – 19: VPNs, Score: 13, Out of 17, Badge: Adventurer, Date and Time: 2024-04-15 10:36:22
+Game Type: Quiz, Score: 2, Out of 17, Badge: Explorer, Date and Time: 2024-04-15 10:36:45
+Game Type: Modules 18  19: VPNs, Score: 2, Out of 17, Badge: Explorer, Date and Time: 2024-04-15 10:42:05
+Game Type: Modules 20 – 22: ASA, Score: 12, Out of 16, Badge: Explorer, Date and Time: 2024-04-15 11:11:07
+Game Type: True/False, Score: 4, Out of 4, Badge: Superstar, Date and Time: 2024-04-16 15:40:54
+Game Type: handle_social_engineering attack, Answer: 1, Date and Time: 2024-04-16 17:42:32
+Game Type: PG block, Answer: encryption testing, Date and Time: 2024-04-16 18:08:37
+Game Type: PG block, Answer: Interesting History about encryption, Date and Time: 2024-04-16 18:12:33
+Game Type: Quiz, Score: 5, Out of 16, Badge: Explorer, Date and Time: 2024-04-18 16:40:11
+Game Type: PG block, Answer: this is the main method for secure sensitive information, Date and Time: 2024-04-18 16:42:12
+Game Type: True/False, Score: 2, Out of 4, Badge: Explorer, Date and Time: 2024-04-19 00:13:54
+Game Type: PG block, Answer: testing, Date and Time: 2024-04-19 00:19:35
+Game Type: Router Configuration, Score: 0, Out of 9, Badge: Explorer, Date and Time: 2024-04-19 00:21:26
+Game Type: True/False, Score: 3, Out of 4, Badge: Explorer, Date and Time: 2024-04-19 00:55:27
+Game Type: Modules 1 – 4: Securing Networks, Score: 16, Out of 24, Badge: Explorer, Date and Time: 2024-04-21 19:24:39
+Game Type: Modules 15 - 17: Cryptography, Score: 14, Out of 23, Badge: Explorer, Date and Time: 2024-04-21 19:27:52
+Game Type: True/False, Score: 4, Out of 4, Badge: Superstar, Date and Time: 2024-04-22 12:05:33
+Game Type: Modules 1 – 4: Securing Networks, Score: 20, Out of 24, Badge: Adventurer, Date and Time: 2024-05-02 10:10:14
+Game Type: Modules 5 - 7: Monitoring and Managing Devices, Score: 19, Out of 21, Badge: Adventurer, Date and Time: 2024-05-02 10:22:17
+Game Type: Quiz, Score: 0, Out of 21, Badge: Explorer, Date and Time: 2024-05-02 10:23:09
+Game Type: Modules 8 - 10: ACLs and Firewalls, Score: 21, Out of 30, Badge: Explorer, Date and Time: 2024-05-02 10:43:05
+Game Type: Modules 11 - 12: Intrusion Prevention, Score: 18, Out of 20, Badge: Adventurer, Date and Time: 2024-05-02 11:02:45
+Game Type: Quiz, Score: 1, Out of 7, Badge: Explorer, Date and Time: 2024-10-04 09:06:34
